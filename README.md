@@ -23,3 +23,26 @@
   ![Snake animation](https://github.com/italocjs/italocjs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ 
+## My skills:
+- Programming for Microcontrolers in C, C++;
+- Programming for Raspberry in Python;
+- Programming for Desktop apps in C# (Visual Studio);
+- Product design (2D/3D Modelling in Soliworks, Autocad, Photoview);
+- 3D Printing (Resin and termoplastics);
+
+## What i'm currently learning:
+- Python libraries;
+    - OpenCV
+    - Pandas
+    - Matplotlib
+    - TensorFlow / Keras
+    - RPA/Pyautogui
+    - WebScraping
+- Machine Learning (using TensorFlow);
+- PowerBI;
+
+## Are you open for jobs?
+Yes, i'm open for new jobs/projects, Linkedin and email buttons are available above.
+Click here to check some of the projects i've been developing. <a href="http://italocjs.github.io" target="_blank"><img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=appveyor" target="_blank"></a> 
