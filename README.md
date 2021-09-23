@@ -45,4 +45,4 @@
 
 ## Are you open for jobs?
 Yes, i'm open for new jobs/projects, Linkedin and email buttons are available above.
-Click here to check some of the projects i've been developing. <a href="http://italocjs.github.io" target="_blank"><img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=appveyor" target="_blank"></a> 
+<a href="http://italocjs.github.io">Click here to check some of the projects i've been developing.</a>
