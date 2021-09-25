@@ -43,6 +43,6 @@
 - Machine Learning (using TensorFlow);
 - PowerBI;
 
-## Are you open for jobs?
-Yes, i'm open for new jobs/projects, Linkedin and email buttons are available above.
+## Open for jobs?
+Yes, i'm open for new jobs/projects, Please contact me using linkedin or email (buttons are available above).
 <a href="http://italocjs.github.io">Click here to check some of the projects i've been developing.</a>
