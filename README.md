@@ -26,23 +26,11 @@
  
  
 ## My skills:
-- Programming for Microcontrolers in C, C++;
-- Programming for Raspberry in Python;
-- Programming for Desktop apps in C# (Visual Studio);
-- Product design (2D/3D Modelling in Soliworks, Autocad, Photoview);
-- 3D Printing (Resin and termoplastics);
-
-## What i'm currently learning:
-- Python libraries;
-    - OpenCV
-    - Pandas
-    - Matplotlib
-    - TensorFlow / Keras
-    - RPA/Pyautogui
-    - WebScraping
-- Machine Learning (using TensorFlow);
-- PowerBI;
+- Programming for embedded systems / IoT devices (C, C++);
+- Circuit board engineering and international manufacturing
+- Mechanical engineering (3d modelling and simulation).
+- Thousands of hours of 3D Printing experience (Resin and termoplastics);
 
 ## Open for jobs?
-Currently no, sorry..
-<a href="http://italocjs.github.io">Click here to check some of the projects i've been developing (its a bit outdated).</a>
+Yes, i'm available to provide consulting, please get in touch through italocjs at live dot com
+<a href="http://italocjs.github.io">Click here to check some of the projects i've been developing (its outdated).</a>
