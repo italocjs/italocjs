@@ -36,4 +36,4 @@ In 2017, I founded 3D Tecnologia, a company dedicated to providing additive manu
 With my experience and expertise, I am equipped to provide consulting services in areas such as innovation and customized product solutions. Please let me know how I can assist you further.
 
 ## Open for jobs?
-Yes, i'm available to provide worldwide consulting, please get in touch through italocjs at live dot com
+Yes, i'm available to provide worldwide consulting, please get in touch through italocjs at linkedin
