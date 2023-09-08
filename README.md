@@ -25,15 +25,18 @@
 </div>
  
  
-## Who am i:
-Hey there, welcome!
-I'm Italo, an entrepreneur and engineer with a passion for creating smart IoT solutions. Throughout my career, I have played a direct role in developing over 20 products and projects in diverse industries such as additive manufacturing, health/research, forestry, civil construction, and field operations management.
+Who am I:
 
-I’m currently R&D leader at "Simova Tecnologia", where i am focused on assessing and improving the company's processes and technologies for field and fleet operations in the construction, forestry, and mining sectors. I evaluate on the market solutions, seeking high-quality products and technologies from reputable vendors to enhance our services. When suitable options are not available, I leverage my experience to develop, prototype and facilitate international production of customized solutions. By staying current on industry trends and collaborating with stakeholders, I drive innovation and international relations to help ensure our company remains competitive.
+Hi, I'm Italo—an engineer, entrepreneur, and pilot. Passionate about smart IoT solutions, I've developed 20+ products across sectors like manufacturing, healthcare, forestry, and mining.
 
-In 2017, I founded 3D Tecnologia, a company dedicated to providing additive manufacturing solutions. Additionally, in 2019, I successfully completed the Nexus Growth program at the Nexus incubator, recognized as one of the top five startup incubators globally. During my time at 3D Tecnologia until 2021, I played a pivotal role in directly developing and launching four market-ready products. 
+👨‍💼 Current Role: Leading R&D at Simova Tecnologia. Focused on tech for field and fleet management in construction and forestry. Expert in hardware, firmware, and software development, with products manufactured globally.
 
-With my experience and expertise, I am equipped to provide consulting services in areas such as innovation and customized product solutions. Please let me know how I can assist you further.
+🛠️ Technologies: Experienced in satellite communications (Orbcomm, Swarm, Starlink), network protocols (2G/3G/4G/WiFi/BT/BLE/LoRa), machine learning, real-time data processing, CANBUS, ESP32 and Arduino.
 
-## Open for jobs?
-Yes, i'm available to provide worldwide consulting, please get in touch through italocjs at linkedin
+🌐 International Relations: Worked with partners in China, Belarus, the USA, and Dubai for manufacturing and product development.
+
+🏢 Past Ventures: Founded 3D Tecnologia, a 3D printer company. Developed four market-ready models used widely in education and industry.
+
+🚀 Achievements: Nexus Growth program alum, one of the world's top startup incubators. Have launched products with >1k units manufactured and 3 MVPs validated in multiple countries.
+
+🌎 Open for Jobs: Yes, offering worldwide consulting. Contact me on LinkedIn!
