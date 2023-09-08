@@ -23,9 +23,6 @@
   ![Snake animation](https://github.com/italocjs/italocjs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
- 
-Who am I:
 
 Hi, I'm Italo—an engineer, entrepreneur, and pilot. Passionate about smart IoT solutions, I've developed 20+ products across sectors like manufacturing, healthcare, forestry, and mining.
 
