@@ -30,7 +30,7 @@ Hi, I'm Italo—an engineer, entrepreneur, and pilot. Passionate about smart IoT
 
 🛠️ Technologies: Experienced in satellite communications (Orbcomm, Swarm, Starlink), network protocols (2G/3G/4G/WiFi/BT/BLE/LoRa), machine learning, real-time data processing, CANBUS, ESP32 and Arduino.
 
-🌐 International Relations: Worked with partners in China, Belarus, the USA, and Dubai for manufacturing and product development.
+🌐 International Relations: Worked with partners in Brazil, Belarus, Chile, China, Dubai and USA for manufacturing and product development.
 
 🏢 Past Ventures: Founded 3D Tecnologia, a 3D printer company. Developed four market-ready models used widely in education and industry.
 
