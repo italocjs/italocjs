@@ -24,16 +24,31 @@
  
 </div>
 
-Hi, I'm Italo—an engineer, entrepreneur, and pilot. Passionate about smart IoT solutions, I've developed 20+ products across sectors like manufacturing, healthcare, forestry, and mining.
+Hello 👋, I'm Italo, an Engineer, Entrepreneur, Pilot and R&D Consultant with extensive experience in developing IoT solutions, including hardware, software and manufacturing. My career spans multiple industries such as forestry, mining, infrastructure, fleet management, additive manufacturing, robotics, and more. 
 
-👨‍💼 Current Role: Leading R&D at Simova Tecnologia. Focused on tech for field and fleet management in construction and forestry. Expert in hardware, firmware, and software development, with products manufactured globally.
 
-🛠️ Technologies: Experienced in satellite communications (Orbcomm, Swarm, Starlink), network protocols (2G/3G/4G/WiFi/BT/BLE/LoRa), machine learning, real-time data processing, CANBUS, ESP32 and Arduino.
+# Highlights
+🛠️R&D Consultant at Simova (2022-2024)
+- Creating new technologies for field and fleet management in the construction, forestry, and infrastructure.
+- Product development: (hardware, firmware, software, casing).
+- Global Sourcing and Manufacturing: (microchips, cables, antennas, packaging).
+- Key Achievements: 4 products being sold worldwide.
 
-🌐 International Relations: Worked with partners in Brazil, Belarus, Chile, China, Dubai and USA for manufacturing and product development.
+🏢Founder & Engineer at 3D Tecnologia (2017-2022):
+- Founded the company and led the engineering team, delivered three industrial grade 3D printers models to the market. Our products have and are still being used by educational institutions, laboratories, and aerospace industries in Brazil.
+- Global Sourcing and Manufacturing: (microchips, mechanical parts, steel sheets).
+- Key Achievements: Concluded the program at Nexus, World’s top five startup incubators, focused on scaling stage with my own start-up "3D Tecnologia" in 2017.
 
-🏢 Past Ventures: Founded 3D Tecnologia, a 3D printer company. Developed four market-ready models used widely in education and industry.
+📝Content Creator at 3DPrinterChat.com (2016-2017):
+- Wrote technical content about additive manufacturing, publishing around one article per week and receiving around 1.4 million views per month. Published content in English using wordpress and semrush.
 
-🚀 Achievements: Nexus Growth program alum, one of the world's top startup incubators. Have launched products with >1k units manufactured and 3 MVPs validated in multiple countries.
+🌍 Global Experience : Successfully managed product manufacturing, testing and logistics across the USA, China, Chile, Brazil, Belarus, and Dubai. Fluent in English and Portuguese, basic Spanish
+
+# Keywords
+- Development: C/C++, Python (numpy, pandas, flask), PHP, Bash, Docker, Kubernetes, Portainer, Proxmox, Git, CI/CD
+- OS: Unix/Linux, Windows, FreeRTOS
+- IoT: ESP8266, ESP32, BLE, WiFi, I2C, SPI, GPS, LoRa, CAN BUS J1939/OBD2, PCB Design, 3D Printing, CAD
+- Server: Proxmox VE, TrueNAS, ZFS, SMB, Ubuntu Server, Windows Server, Docker, Portainer, Reverse Proxy, VPN, Cloudflare
+- Backgrounds: Embedded Systems Engineer, Electrical Engineer, Software Engineer, Data Scientist, DevOps, Business Developer
 
 🌎 Open for Jobs: Yes, offering worldwide consulting. Contact me on LinkedIn!
