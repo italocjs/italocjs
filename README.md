@@ -16,15 +16,13 @@
   ##
  
 <div> 
-  <a href = "mailto:italocjs@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/italocjs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="http://italocjs.github.io" target="_blank"><img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=appveyor" target="_blank"></a> 
+ 
  
   ![Snake animation](https://github.com/italocjs/italocjs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-Hello 👋, I'm Italo, an Engineer, Entrepreneur, Pilot and R&D Consultant with extensive experience IoT solutions, My career spans multiple industries such as forestry, mining, infrastructure, fleet management, additive manufacturing, robotics, and more. 
+Hello 👋, I'm Italo, an Engineer, Entrepreneur, Pilot and R&D Consultant with extensive experience IoT solutions, My career spans multiple industries such as forestry, mining, infrastructure, fleet management, additive manufacturing, robotics, and more.
 
 # Keywords
 - Development: C/C++, Python (numpy, pandas, flask), PHP, Bash, Docker, Kubernetes, Portainer, Proxmox, Git, CI/CD
@@ -33,3 +31,5 @@ Hello 👋, I'm Italo, an Engineer, Entrepreneur, Pilot and R&D Consultant with 
 - Backgrounds: Embedded Systems Engineer, Electrical Engineer, Software Engineer, Data Scientist, DevOps, Business Developer
 
 🌎 Open for fully-remote worldwide consulting. Contact through LinkedIn
+
+ <a href="https://www.linkedin.com/in/italocjs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href="http://italocjs.github.io" target="_blank"><img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=appveyor" target="_blank"></a> 
